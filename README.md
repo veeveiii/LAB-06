@@ -78,5 +78,7 @@
 ``` GPA : (ป้อนเกรดเฉลี่ยนักศึกษา โดยมีทศนิยมสองหลัก).```
 <hr>
 ![](https://scontent.fbkk2-2.fna.fbcdn.net/v/t34.0-12/14996555_1134039056716344_1046777621_n.png?oh=4bfc3bdfadedd19b9e04200c53649eb7&oe=582738C5)
+
+<HR>
 Ailada Samingkaew 57030249
 <hr>
